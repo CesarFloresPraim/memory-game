@@ -21,7 +21,7 @@ Run the app
 npm start
 ```
 
-Open in browser https://localhost:3000
+Open in browser https://localhost:3000 or go to [Live](https://memorygame.binara-demos.com/)
 Enjoy!
 
 ### By [CesarFloresPraim](https://github.com/CesarFloresPraim)
